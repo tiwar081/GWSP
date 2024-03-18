@@ -1,1 +1,5 @@
 Neural Network Posterior Generation: https://arxiv.org/pdf/2106.12594.pdf
+GWS Background:
+    https://l.messenger.com/l.php?u=https%3A%2F%2Flink.springer.com%2Farticle%2F10.12942%2Flrr-2009-2&h=AT31yVkMV1LTcOWNIYYRlJsx6jA3r6f39Bi3B-TeAsAqRmFf_0teW3h9FD7u5mZjvzjnP0_WBUjR_vdHvioX2pccLlq_H02DcpO_mKUmBRsAFTsG768Os0RufA9JKiaTfZrg_w7xoXc
+    https://cdn.fbsbx.com/v/t59.2708-21/432827927_1405144773472234_1519481164849331944_n.pdf/GWLiangLecture.pdf?_nc_cat=103&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=s_8zK1wuZ08AX_ss-bX&_nc_oc=AdhmSwlwGIMa5LMPJMBSicbpjWYBB-GH1GTbsS9F7rpC7uBUBLib-VPd_mWOV6Xxwkc&_nc_ht=cdn.fbsbx.com&oh=03_AdSVnqBQO8cr9JP1mCPc4W1m5M6ZOQDGJifYQ_hEjFDbdw&oe=65FA4590&dl=1 
+
