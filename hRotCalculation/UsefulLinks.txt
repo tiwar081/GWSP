@@ -1,0 +1,1 @@
+Neural Network Posterior Generation: https://arxiv.org/pdf/2106.12594.pdf
